@@ -1,3 +1,4 @@
 storage access
 memory full
 cpu access
+accessories
